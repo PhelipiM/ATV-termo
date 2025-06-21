@@ -1,0 +1,40 @@
+java,Linguagem de programação orientada a objetos
+teclado,Dispositivo usado para digitar
+monitor,Dispositivo de saída visual
+internet,Rede mundial de computadores
+mouse,Dispositivo apontador do computador
+algoritmo,Sequência lógica de passos
+classe,Bloco de construção em POO
+objeto,Instância de uma classe
+heranca,Reutilização de código em POO
+interface,Define contratos em POO,computador,Equipamento que processa dados
+processador,Cérebro do computador
+memoria,Armazena dados temporariamente
+sistema,Sofware que gerencia o hardware
+nuvem,Armazenamento online
+banco,Local de armazenamento de dados
+dados,Informações processadas
+programa,Conjunto de instruções executáveis
+codigo,Conjunto de comandos em linguagem de programação
+byte,Unidade básica de dados
+bit,Menor unidade de informação
+rede,Conjunto de computadores interligados
+host,Computador central de uma rede
+cliente,Dispositivo que acessa um servidor
+servidor,Computador que fornece serviços a outros
+firewall,Protege a rede contra invasões
+login,Acesso a uma conta com usuário e senha
+senha,Código secreto de autenticação
+usuario,Pessoa que interage com o sistema
+linux,Sistema operacional de código aberto
+windows,Sistema operacional da Microsoft
+java,Linguagem de programação multiplataforma
+python,Linguagem de programação de fácil leitura
+html,Linguagem de marcação de páginas web
+css,Define o estilo das páginas web
+script,Código que automatiza tarefas
+editor,Programa usado para escrever código
+compilador,Traduz código-fonte para linguagem de máquina
+terminal,Interface de linha de comando
+bug,Erro no código do programa
+
